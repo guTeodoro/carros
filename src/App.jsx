@@ -22,7 +22,7 @@ export default function App() {
 
         <div>
           <img src={iconLuxury} alt="Ícone dos carros de luxo" />
-          <h2>Luxuosos</h2>
+          <h2 className="text-3xl">Luxuosos</h2>
           <p>Passeie nos melhores carros sem os preços exorbitantes. Desfrute do conforto aprimorado de um aluguel de luxo e chegue com estilo.</p>
           <a href="https://www.webmotors.com.br/carros-de-luxo" target="_blank">Ver Mais</a>
         </div>
